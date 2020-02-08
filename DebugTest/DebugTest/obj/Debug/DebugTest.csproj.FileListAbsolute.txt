@@ -1,0 +1,6 @@
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\bin\Debug\DebugTest.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\bin\Debug\DebugTest.exe
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\bin\Debug\DebugTest.pdb
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\obj\Debug\DebugTest.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\obj\Debug\DebugTest.exe
+S:\Projects\project Musgrave CPII\MSC2913\DebugTest\DebugTest\obj\Debug\DebugTest.pdb
