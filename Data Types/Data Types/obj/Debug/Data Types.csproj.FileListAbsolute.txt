@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\bin\Debug\Data Types.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\bin\Debug\Data Types.exe
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\bin\Debug\Data Types.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data Types.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data_Types.dataTypesForm.resources
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data_Types.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data Types.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data Types.exe
+S:\Projects\project Musgrave CPII\MSC2913\Data Types\Data Types\obj\Debug\Data Types.pdb
