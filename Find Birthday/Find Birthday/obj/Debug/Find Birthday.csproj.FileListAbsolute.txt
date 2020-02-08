@@ -1,0 +1,9 @@
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\bin\Debug\Find Birthday.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\bin\Debug\Find Birthday.exe
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\bin\Debug\Find Birthday.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find Birthday.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find_Birthday.FindBirthday.resources
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find_Birthday.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find Birthday.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find Birthday.exe
+S:\Projects\project Musgrave CPII\MSC2913\Find Birthday\Find Birthday\obj\Debug\Find Birthday.pdb
