@@ -1,0 +1,9 @@
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.exe
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\bin\Debug\AlgorithmTest.pdb
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.AlgorithmTest.resources
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.exe
+S:\Projects\project Musgrave CPII\MSC2913\AlgorithmTest\AlgorithmTest\obj\x86\Debug\AlgorithmTest.pdb
