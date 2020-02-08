@@ -1,0 +1,8 @@
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\bin\Debug\Debug Program.exe
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\bin\Debug\Debug Program.pdb
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug Program.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug_Program.DebugForm.resources
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug_Program.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug Program.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug Program.exe
+S:\Projects\project Musgrave CPII\MSC2913\DebugProgram\Debug Program\Debug Program\obj\Debug\Debug Program.pdb
