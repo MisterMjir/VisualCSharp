@@ -1,0 +1,7 @@
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\bin\Debug\Echo Echo.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\bin\Debug\Echo Echo.exe
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\bin\Debug\Echo Echo.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\obj\Debug\Echo Echo.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\obj\Debug\Echo Echo.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\obj\Debug\Echo Echo.exe
+S:\Projects\project Musgrave CPII\MSC2913\Echo Echo\Echo Echo\obj\Debug\Echo Echo.pdb
