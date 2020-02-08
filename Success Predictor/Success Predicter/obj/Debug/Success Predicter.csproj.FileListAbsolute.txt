@@ -1,0 +1,30 @@
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\bin\Debug\Success Predicter.exe.config
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\bin\Debug\Success Predicter.exe
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\bin\Debug\Success Predicter.pdb
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success Predicter.csprojAssemblyReference.cache
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success_Predicter.Properties.Resources.resources
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success_Predicter.SuccessPredicter.resources
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success Predicter.csproj.GenerateResource.cache
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success Predicter.exe
+C:\Users\msc2913\source\repos\Success Predicter\Success Predicter\obj\Debug\Success Predicter.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Success Predicter\Success Predicter\obj\Debug\Success Predicter.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Success Predicter\Success Predicter\obj\Debug\Success Predicter.exe
+S:\Projects\project Musgrave CPII\MSC2913\Success Predicter\Success Predicter\obj\Debug\Success Predicter.pdb
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\bin\Debug\Success Predicter.exe.config
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\bin\Debug\Success Predicter.exe
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\bin\Debug\Success Predicter.pdb
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success Predicter.csprojAssemblyReference.cache
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success_Predicter.Properties.Resources.resources
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success_Predicter.SuccessPredicter.resources
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success Predicter.csproj.GenerateResource.cache
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success Predicter.exe
+C:\Users\msc2913\Downloads\Success Predicter\Success Predicter\Success Predicter\obj\Debug\Success Predicter.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\bin\Debug\Success Predicter.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\bin\Debug\Success Predicter.exe
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\bin\Debug\Success Predicter.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success Predicter.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success_Predicter.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success_Predicter.SuccessPredicter.resources
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success Predicter.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success Predicter.exe
+S:\Projects\project Musgrave CPII\MSC2913\Success Predictor\Success Predicter\obj\Debug\Success Predicter.pdb
