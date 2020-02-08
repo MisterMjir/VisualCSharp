@@ -1,0 +1,7 @@
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\bin\Debug\First Console.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\bin\Debug\First Console.exe
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\bin\Debug\First Console.pdb
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\obj\Debug\First Console.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\obj\Debug\First Console.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\obj\Debug\First Console.exe
+S:\Projects\project Musgrave CPII\MSC2913\First Console\First Console\obj\Debug\First Console.pdb
