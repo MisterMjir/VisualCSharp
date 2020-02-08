@@ -1,0 +1,9 @@
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\bin\Debug\Graphing.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\bin\Debug\Graphing.exe
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\bin\Debug\Graphing.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.Graphing.resources
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.exe
+S:\Projects\project Musgrave CPII\MSC2913\Graphing\Graphing\obj\Debug\Graphing.pdb
