@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\bin\Debug\Caesars Cipher.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\bin\Debug\Caesars Cipher.exe
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\bin\Debug\Caesars Cipher.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars Cipher.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars_Cipher.CaesarCipher.resources
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars_Cipher.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars Cipher.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars Cipher.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars Cipher.exe
+S:\Projects\project Musgrave CPII\MSC2913\Caesars Cipher\Caesars Cipher\obj\Debug\Caesars Cipher.pdb
