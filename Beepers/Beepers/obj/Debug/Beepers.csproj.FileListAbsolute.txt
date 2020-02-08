@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\bin\Debug\Beepers.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\bin\Debug\Beepers.exe
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\bin\Debug\Beepers.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.Beepers.resources
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.exe
+S:\Projects\project Musgrave CPII\MSC2913\Beepers\Beepers\obj\Debug\Beepers.pdb
