@@ -1,0 +1,7 @@
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\bin\Debug\AbstractChess.exe
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\bin\Debug\AbstractChess.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\obj\Debug\AbstractChess.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\obj\Debug\ChessPieceDemo.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\obj\Debug\AbstractChess.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\obj\Debug\AbstractChess.exe
+S:\Projects\project Musgrave CPII\MSC2913\Abstract Chess Piece\AbstractChess\obj\Debug\AbstractChess.pdb
