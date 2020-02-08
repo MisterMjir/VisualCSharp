@@ -1,0 +1,8 @@
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.exe
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\bin\Debug\Insertion Sort.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\Insertion_Sort.SortForm.resources
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\InsertionSort.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.exe
+S:\Projects\project Musgrave CPII\MSC2913\Insertion Sort\Insertion Sort\obj\Debug\Insertion Sort.pdb
