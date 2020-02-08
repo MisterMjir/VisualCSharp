@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\bin\Debug\Tall Tales.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\bin\Debug\Tall Tales.exe
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\bin\Debug\Tall Tales.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall Tales.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall_Tales.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall_Tales.tallTales.resources
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall Tales.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall Tales.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall Tales.exe
+S:\Projects\project Musgrave CPII\MSC2913\Tall Tales\Tall Tales\obj\Debug\Tall Tales.pdb
