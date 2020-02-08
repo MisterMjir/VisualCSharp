@@ -1,0 +1,10 @@
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\bin\Debug\Hello World2.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\bin\Debug\Hello World2.exe
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\bin\Debug\Hello World2.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello World2.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello_World2.HelloForm2.resources
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello_World2.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello World2.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello World2.csproj.CoreCompileInputs.cache
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello World2.exe
+S:\Projects\project Musgrave CPII\MSC2913\Hello World2\Hello World2\obj\Debug\Hello World2.pdb
