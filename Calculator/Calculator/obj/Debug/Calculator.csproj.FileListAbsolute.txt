@@ -1,0 +1,9 @@
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\bin\Debug\Calculator.exe.config
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\bin\Debug\Calculator.exe
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\bin\Debug\Calculator.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.exe
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.pdb
+S:\Projects\project Musgrave CPII\MSC2913\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
